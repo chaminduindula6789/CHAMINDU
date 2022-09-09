@@ -24,7 +24,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/K0nmnF3/chami.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
@@ -51,6 +51,6 @@
 
 
 ## Owner:
-* [`KING-CHAMI`]()
+* [`KING-CHAMI`](https://github.com/KINGCHAMIYA00)
 
 ## Thanks To
