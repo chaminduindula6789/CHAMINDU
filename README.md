@@ -41,7 +41,7 @@
 
 1. Click [SCAN]() and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
+2. Click [FORK](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1/fork)
 
 2. After That Upload Session.json File
 
