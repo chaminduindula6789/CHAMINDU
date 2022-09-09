@@ -39,7 +39,7 @@
 <p align="center">By KING CHAMI>| © | Reserved  </br> 
  
 
-1. Click [SCAN]() and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@kingchamiya/-?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1/fork)
 
@@ -51,6 +51,6 @@
 
 
 ## Owner:
-* [`KING-CHAMI`](https://github.com/vihangayt0)
+* [`KING-CHAMI`]()
 
 ## Thanks To
