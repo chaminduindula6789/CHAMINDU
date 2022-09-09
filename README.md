@@ -30,7 +30,7 @@
 
   <p align="center">
 
-<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/King-chami-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
