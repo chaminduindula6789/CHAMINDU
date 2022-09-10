@@ -5,6 +5,11 @@
     "logo": "https://i.ibb.co/K0nmnF3/chami.png",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
+},
+        "session": {
+            "description": "session.",
+            "required": true
+            
   
 "WELCOME_AND_GOODBYE" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
