@@ -10,7 +10,6 @@
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
   "value" : "true"
-            
     },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
