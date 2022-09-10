@@ -74,6 +74,12 @@
     "description" : "TYPE ALIVE MSG",
     "required" : true,
   "value" : "*IM ALIVE NOW*"
+            
+     },
+        "REMOVE_BG_API_KEY": {
+            "description": "Get API Key. https://remove.bg",
+            "required": false
+            
     },
         
 "CALL_BLOCK" :{
@@ -164,6 +170,11 @@
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
   "value" : "https://i.ibb.co/K0nmnF3/chami.png"
+    
+  },
+          "ZZ_PASSWORD": {
+            "description": "***බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර එය ලබා ගන්න.password required..***",
+            "required": true
 },
   
   "YT_URL" :{
